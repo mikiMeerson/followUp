@@ -1,0 +1,7 @@
+.section {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row !important;
+    justify-content: space-evenly;
+    margin: 1%;
+}

@@ -1,0 +1,9 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 85%;
+}
+
+.header {
+    flex-grow: 1;
+}
